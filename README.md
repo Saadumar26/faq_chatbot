@@ -1,6 +1,6 @@
 # FAQ Chatbot
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/your_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saadumar26/codealpha_faq_chatbot/blob/main/FAQ_Chatbot.ipynb)
 &nbsp;
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -34,11 +34,7 @@ You can run this project in two ways:
 
 ### 1. Run with Google Colab (Recommended)
 
-Click the "Open in Colab" badge at the top of this README, or use the following link to open the notebook directly in Google Colab:
-
-[**Open Notebook in Google Colab**](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/your_notebook.ipynb)
-
-> **Important:** Remember to replace `YOUR_USERNAME`, `YOUR_REPOSITORY`, and `your_notebook.ipynb` in the link with your actual GitHub username, repository name, and the name of your notebook file.
+Click the "Open in Colab" badge at the top of this README to open the notebook directly in Google Colab.
 
 ### 2. Run on a Local Machine
 
@@ -51,10 +47,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 #### Installation
 
-1.  **Clone the repository (or download the script):**
+1.  **Clone the repository:**
     ```bash
-    git clone https://your-repository-url.git
-    cd your-repository-folder
+    git clone https://github.com/Saadumar26/codealpha_faq_chatbot.git
+    cd codealpha_faq_chatbot
     ```
 
 2.  **Install the required Python libraries:**
@@ -96,7 +92,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```
 
 2.  **Launch the Chatbot:**
-    -   Open the `.ipynb` file in your chosen environment (Colab, Jupyter Notebook, or JupyterLab).
+    -   Open the `FAQ_Chatbot.ipynb` file in your chosen environment (Colab, Jupyter Notebook, or JupyterLab).
     -   Run all the cells. The interactive chat widget will appear at the bottom.
 
 3.  **Interact with the Bot:**
@@ -137,4 +133,4 @@ Contributions are welcome! If you have ideas for improvements or want to fix a b
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.# codealpha_faq_chatbot
+This project is licensed under the MIT License - see the `LICENSE` file for details.
