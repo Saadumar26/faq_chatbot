@@ -1,6 +1,6 @@
 # FAQ Chatbot
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saadumar26/codealpha_faq_chatbot/blob/main/FAQ_Chatbot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saadumar26/faq_chatbot/blob/main/FAQ_Chatbot.ipynb)
 &nbsp;
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -49,8 +49,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Saadumar26/codealpha_faq_chatbot.git
-    cd codealpha_faq_chatbot
+    git clone https://github.com/Saadumar26/faq_chatbot.git
+    cd faq_chatbot
     ```
 
 2.  **Install the required Python libraries:**
